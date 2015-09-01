@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2015\Projects\Primitive-Data-Types-Variables\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\Primitive-Data-Types-Variables\QuotesInStrings\bin\Debug\QuotesInStrings.exe
+c:\users\alex\documents\visual studio 2015\Projects\Primitive-Data-Types-Variables\QuotesInStrings\bin\Debug\QuotesInStrings.pdb
+c:\users\alex\documents\visual studio 2015\Projects\Primitive-Data-Types-Variables\QuotesInStrings\obj\Debug\QuotesInStrings.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\Primitive-Data-Types-Variables\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+c:\users\alex\documents\visual studio 2015\Projects\Primitive-Data-Types-Variables\QuotesInStrings\obj\Debug\QuotesInStrings.pdb
