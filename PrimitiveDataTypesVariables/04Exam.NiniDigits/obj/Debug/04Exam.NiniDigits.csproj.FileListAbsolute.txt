@@ -1,0 +1,6 @@
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\04Exam.NiniDigits\bin\Debug\04Exam.NiniDigits.exe.config
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\04Exam.NiniDigits\bin\Debug\04Exam.NiniDigits.exe
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\04Exam.NiniDigits\bin\Debug\04Exam.NiniDigits.pdb
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\04Exam.NiniDigits\obj\Debug\04Exam.NiniDigits.csprojResolveAssemblyReference.cache
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\04Exam.NiniDigits\obj\Debug\04Exam.NiniDigits.exe
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\04Exam.NiniDigits\obj\Debug\04Exam.NiniDigits.pdb

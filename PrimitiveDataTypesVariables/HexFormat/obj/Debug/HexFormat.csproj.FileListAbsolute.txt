@@ -1,0 +1,5 @@
+c:\users\alex\documents\visual studio 2015\Projects\Primitive-Data-Types-Variables\HexFormat\bin\Debug\HexFormat.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\Primitive-Data-Types-Variables\HexFormat\bin\Debug\HexFormat.exe
+c:\users\alex\documents\visual studio 2015\Projects\Primitive-Data-Types-Variables\HexFormat\bin\Debug\HexFormat.pdb
+c:\users\alex\documents\visual studio 2015\Projects\Primitive-Data-Types-Variables\HexFormat\obj\Debug\HexFormat.exe
+c:\users\alex\documents\visual studio 2015\Projects\Primitive-Data-Types-Variables\HexFormat\obj\Debug\HexFormat.pdb

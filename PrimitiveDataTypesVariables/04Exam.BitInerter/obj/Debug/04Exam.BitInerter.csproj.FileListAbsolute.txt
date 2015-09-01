@@ -1,0 +1,6 @@
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\04Exam.BitInerter\bin\Debug\04Exam.BitInerter.exe.config
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\04Exam.BitInerter\bin\Debug\04Exam.BitInerter.exe
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\04Exam.BitInerter\bin\Debug\04Exam.BitInerter.pdb
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\04Exam.BitInerter\obj\Debug\04Exam.BitInerter.csprojResolveAssemblyReference.cache
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\04Exam.BitInerter\obj\Debug\04Exam.BitInerter.exe
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\04Exam.BitInerter\obj\Debug\04Exam.BitInerter.pdb

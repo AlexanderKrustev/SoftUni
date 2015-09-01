@@ -1,0 +1,6 @@
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe.config
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\13.ComparingFloats\bin\Debug\13.ComparingFloats.pdb
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\13.ComparingFloats\obj\Debug\13.ComparingFloats.csprojResolveAssemblyReference.cache
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\13.ComparingFloats\obj\Debug\13.ComparingFloats.exe
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\13.ComparingFloats\obj\Debug\13.ComparingFloats.pdb

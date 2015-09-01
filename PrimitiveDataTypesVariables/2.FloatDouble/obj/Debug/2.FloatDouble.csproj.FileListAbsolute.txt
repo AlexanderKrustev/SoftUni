@@ -1,0 +1,5 @@
+c:\users\alex\documents\visual studio 2015\Projects\Primitive-Data-Types-Variables\2.FloatDouble\bin\Debug\2.FloatDouble.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\Primitive-Data-Types-Variables\2.FloatDouble\bin\Debug\2.FloatDouble.exe
+c:\users\alex\documents\visual studio 2015\Projects\Primitive-Data-Types-Variables\2.FloatDouble\bin\Debug\2.FloatDouble.pdb
+c:\users\alex\documents\visual studio 2015\Projects\Primitive-Data-Types-Variables\2.FloatDouble\obj\Debug\2.FloatDouble.exe
+c:\users\alex\documents\visual studio 2015\Projects\Primitive-Data-Types-Variables\2.FloatDouble\obj\Debug\2.FloatDouble.pdb
