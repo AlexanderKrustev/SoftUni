@@ -1,0 +1,6 @@
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\SunGlasses\bin\Debug\SunGlasses.exe.config
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\SunGlasses\bin\Debug\SunGlasses.exe
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\SunGlasses\bin\Debug\SunGlasses.pdb
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\SunGlasses\obj\Debug\03Exam.SunGlasses.csprojResolveAssemblyReference.cache
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\SunGlasses\obj\Debug\SunGlasses.exe
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\SunGlasses\obj\Debug\SunGlasses.pdb
