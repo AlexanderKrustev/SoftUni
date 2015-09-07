@@ -1,0 +1,5 @@
+c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\03.CircleAreaPer\bin\Debug\03.CircleAreaPer.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\03.CircleAreaPer\bin\Debug\03.CircleAreaPer.exe
+c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\03.CircleAreaPer\bin\Debug\03.CircleAreaPer.pdb
+c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\03.CircleAreaPer\obj\Debug\03.CircleAreaPer.exe
+c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\03.CircleAreaPer\obj\Debug\03.CircleAreaPer.pdb

@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\12.Falling Rocks\bin\Debug\12.Falling Rocks.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\12.Falling Rocks\bin\Debug\12.Falling Rocks.exe
+c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\12.Falling Rocks\bin\Debug\12.Falling Rocks.pdb
+c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\12.Falling Rocks\obj\Debug\12.Falling Rocks.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\12.Falling Rocks\obj\Debug\12.Falling Rocks.exe
+c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\12.Falling Rocks\obj\Debug\12.Falling Rocks.pdb

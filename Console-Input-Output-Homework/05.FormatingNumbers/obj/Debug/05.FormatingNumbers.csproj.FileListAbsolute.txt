@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\05.FormatingNumbers\bin\Debug\05.FormatingNumbers.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\05.FormatingNumbers\bin\Debug\05.FormatingNumbers.exe
+c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\05.FormatingNumbers\bin\Debug\05.FormatingNumbers.pdb
+c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\05.FormatingNumbers\obj\Debug\05.FormatingNumbers.exe
+c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\05.FormatingNumbers\obj\Debug\05.FormatingNumbers.pdb
+c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\05.FormatingNumbers\obj\Debug\05.FormatingNumbers.csprojResolveAssemblyReference.cache

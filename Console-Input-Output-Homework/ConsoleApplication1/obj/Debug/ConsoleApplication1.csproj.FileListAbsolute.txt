@@ -1,0 +1,5 @@
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Console-Input-Output-Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Console-Input-Output-Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Console-Input-Output-Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Console-Input-Output-Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Console-Input-Output-Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
