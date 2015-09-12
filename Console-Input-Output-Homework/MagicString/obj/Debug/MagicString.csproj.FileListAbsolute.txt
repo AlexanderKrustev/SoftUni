@@ -1,0 +1,6 @@
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Console-Input-Output-Homework\MagicString\bin\Debug\MagicString.exe.config
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Console-Input-Output-Homework\MagicString\bin\Debug\MagicString.exe
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Console-Input-Output-Homework\MagicString\bin\Debug\MagicString.pdb
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Console-Input-Output-Homework\MagicString\obj\Debug\MagicString.exe
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Console-Input-Output-Homework\MagicString\obj\Debug\MagicString.pdb
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Console-Input-Output-Homework\MagicString\obj\Debug\MagicString.csprojResolveAssemblyReference.cache

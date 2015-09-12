@@ -1,0 +1,6 @@
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Console-Input-Output-Homework\16.ExamMagicStrings\bin\Debug\16.ExamMagicStrings.exe.config
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Console-Input-Output-Homework\16.ExamMagicStrings\bin\Debug\16.ExamMagicStrings.exe
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Console-Input-Output-Homework\16.ExamMagicStrings\bin\Debug\16.ExamMagicStrings.pdb
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Console-Input-Output-Homework\16.ExamMagicStrings\obj\Debug\16.ExamMagicStrings.csprojResolveAssemblyReference.cache
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Console-Input-Output-Homework\16.ExamMagicStrings\obj\Debug\16.ExamMagicStrings.exe
+C:\Users\alex\Documents\Visual Studio 2015\Projects\Console-Input-Output-Homework\16.ExamMagicStrings\obj\Debug\16.ExamMagicStrings.pdb
