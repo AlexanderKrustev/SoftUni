@@ -1,5 +1,0 @@
-c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\11. NumbersInIntervalDividable\bin\Debug\_11.NumbersInIntervalDividable.exe.config
-c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\11. NumbersInIntervalDividable\bin\Debug\_11.NumbersInIntervalDividable.exe
-c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\11. NumbersInIntervalDividable\bin\Debug\_11.NumbersInIntervalDividable.pdb
-c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\11. NumbersInIntervalDividable\obj\Debug\_11.NumbersInIntervalDividable.exe
-c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\11. NumbersInIntervalDividable\obj\Debug\_11.NumbersInIntervalDividable.pdb

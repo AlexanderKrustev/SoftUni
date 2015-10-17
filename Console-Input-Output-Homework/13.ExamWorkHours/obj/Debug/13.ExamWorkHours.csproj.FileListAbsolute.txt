@@ -1,6 +1,0 @@
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Console-Input-Output-Homework\13.ExamWorkHours\bin\Debug\13.ExamWorkHours.exe.config
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Console-Input-Output-Homework\13.ExamWorkHours\bin\Debug\13.ExamWorkHours.exe
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Console-Input-Output-Homework\13.ExamWorkHours\bin\Debug\13.ExamWorkHours.pdb
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Console-Input-Output-Homework\13.ExamWorkHours\obj\Debug\13.ExamWorkHours.csprojResolveAssemblyReference.cache
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Console-Input-Output-Homework\13.ExamWorkHours\obj\Debug\13.ExamWorkHours.exe
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Console-Input-Output-Homework\13.ExamWorkHours\obj\Debug\13.ExamWorkHours.pdb

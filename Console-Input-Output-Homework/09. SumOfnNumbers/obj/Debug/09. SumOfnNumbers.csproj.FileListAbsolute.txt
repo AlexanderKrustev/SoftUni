@@ -1,5 +1,0 @@
-c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\09. SumOfnNumbers\bin\Debug\_09.SumOfnNumbers.exe.config
-c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\09. SumOfnNumbers\bin\Debug\_09.SumOfnNumbers.exe
-c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\09. SumOfnNumbers\bin\Debug\_09.SumOfnNumbers.pdb
-c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\09. SumOfnNumbers\obj\Debug\_09.SumOfnNumbers.exe
-c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\09. SumOfnNumbers\obj\Debug\_09.SumOfnNumbers.pdb

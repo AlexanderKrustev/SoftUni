@@ -1,5 +1,0 @@
-c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\08. NumbersFrom1Ton\bin\Debug\_08.NumbersFrom1Ton.exe.config
-c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\08. NumbersFrom1Ton\bin\Debug\_08.NumbersFrom1Ton.exe
-c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\08. NumbersFrom1Ton\bin\Debug\_08.NumbersFrom1Ton.pdb
-c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\08. NumbersFrom1Ton\obj\Debug\_08.NumbersFrom1Ton.exe
-c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\08. NumbersFrom1Ton\obj\Debug\_08.NumbersFrom1Ton.pdb

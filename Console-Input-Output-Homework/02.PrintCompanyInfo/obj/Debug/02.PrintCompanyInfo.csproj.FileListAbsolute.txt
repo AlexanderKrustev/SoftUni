@@ -1,6 +1,0 @@
-c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\02.PrintCompanyInfo\bin\Debug\02.PrintCompanyInfo.exe.config
-c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\02.PrintCompanyInfo\bin\Debug\02.PrintCompanyInfo.exe
-c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\02.PrintCompanyInfo\bin\Debug\02.PrintCompanyInfo.pdb
-c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\02.PrintCompanyInfo\obj\Debug\02.PrintCompanyInfo.csprojResolveAssemblyReference.cache
-c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\02.PrintCompanyInfo\obj\Debug\02.PrintCompanyInfo.exe
-c:\users\alex\documents\visual studio 2015\Projects\Console-Input-Output-Homework\02.PrintCompanyInfo\obj\Debug\02.PrintCompanyInfo.pdb

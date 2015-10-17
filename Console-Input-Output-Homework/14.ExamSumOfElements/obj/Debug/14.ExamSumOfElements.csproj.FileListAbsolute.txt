@@ -1,6 +1,0 @@
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Console-Input-Output-Homework\14.ExamSumOfElements\bin\Debug\14.ExamSumOfElements.exe.config
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Console-Input-Output-Homework\14.ExamSumOfElements\bin\Debug\14.ExamSumOfElements.exe
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Console-Input-Output-Homework\14.ExamSumOfElements\bin\Debug\14.ExamSumOfElements.pdb
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Console-Input-Output-Homework\14.ExamSumOfElements\obj\Debug\14.ExamSumOfElements.exe
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Console-Input-Output-Homework\14.ExamSumOfElements\obj\Debug\14.ExamSumOfElements.pdb
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Console-Input-Output-Homework\14.ExamSumOfElements\obj\Debug\14.ExamSumOfElements.csprojResolveAssemblyReference.cache
