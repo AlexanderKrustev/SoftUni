@@ -1,5 +1,0 @@
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Week2Homework\SquareRoot\bin\Debug\SquareRoot.exe.config
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Week2Homework\SquareRoot\bin\Debug\SquareRoot.exe
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Week2Homework\SquareRoot\bin\Debug\SquareRoot.pdb
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Week2Homework\SquareRoot\obj\Debug\SquareRoot.exe
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Week2Homework\SquareRoot\obj\Debug\SquareRoot.pdb

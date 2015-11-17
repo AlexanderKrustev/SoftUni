@@ -1,5 +1,0 @@
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Week2Homework\RefermatCode\bin\Debug\RefermatCode.exe.config
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Week2Homework\RefermatCode\bin\Debug\RefermatCode.exe
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Week2Homework\RefermatCode\bin\Debug\RefermatCode.pdb
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Week2Homework\RefermatCode\obj\Debug\RefermatCode.exe
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Week2Homework\RefermatCode\obj\Debug\RefermatCode.pdb

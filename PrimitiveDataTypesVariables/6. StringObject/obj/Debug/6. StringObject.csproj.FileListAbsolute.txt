@@ -1,5 +1,0 @@
-c:\users\alex\documents\visual studio 2015\Projects\Primitive-Data-Types-Variables\6. StringObject\bin\Debug\_6.StringObject.exe.config
-c:\users\alex\documents\visual studio 2015\Projects\Primitive-Data-Types-Variables\6. StringObject\bin\Debug\_6.StringObject.exe
-c:\users\alex\documents\visual studio 2015\Projects\Primitive-Data-Types-Variables\6. StringObject\bin\Debug\_6.StringObject.pdb
-c:\users\alex\documents\visual studio 2015\Projects\Primitive-Data-Types-Variables\6. StringObject\obj\Debug\_6.StringObject.exe
-c:\users\alex\documents\visual studio 2015\Projects\Primitive-Data-Types-Variables\6. StringObject\obj\Debug\_6.StringObject.pdb

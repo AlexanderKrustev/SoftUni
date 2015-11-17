@@ -1,5 +1,0 @@
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Week2Homework\PrintSiquence\bin\Debug\PrintSiquence.exe.config
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Week2Homework\PrintSiquence\bin\Debug\PrintSiquence.exe
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Week2Homework\PrintSiquence\bin\Debug\PrintSiquence.pdb
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Week2Homework\PrintSiquence\obj\Debug\PrintSiquence.exe
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Week2Homework\PrintSiquence\obj\Debug\PrintSiquence.pdb

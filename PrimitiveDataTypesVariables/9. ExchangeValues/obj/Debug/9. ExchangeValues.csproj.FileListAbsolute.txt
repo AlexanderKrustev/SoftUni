@@ -1,5 +1,0 @@
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\9. ExchangeValues\bin\Debug\_9.ExchangeValues.exe.config
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\9. ExchangeValues\bin\Debug\_9.ExchangeValues.exe
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\9. ExchangeValues\bin\Debug\_9.ExchangeValues.pdb
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\9. ExchangeValues\obj\Debug\_9.ExchangeValues.exe
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\9. ExchangeValues\obj\Debug\_9.ExchangeValues.pdb

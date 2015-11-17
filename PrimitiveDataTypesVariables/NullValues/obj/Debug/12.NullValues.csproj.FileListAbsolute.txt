@@ -1,6 +1,0 @@
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\NullValues\bin\Debug\NullValues.exe.config
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\NullValues\bin\Debug\NullValues.exe
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\NullValues\bin\Debug\NullValues.pdb
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\NullValues\obj\Debug\12.NullValues.csprojResolveAssemblyReference.cache
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\NullValues\obj\Debug\NullValues.exe
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-Variables\NullValues\obj\Debug\NullValues.pdb

@@ -1,5 +1,0 @@
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Week2Homework\PrintLongSiquence\bin\Debug\PrintLongSiquence.exe.config
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Week2Homework\PrintLongSiquence\bin\Debug\PrintLongSiquence.exe
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Week2Homework\PrintLongSiquence\bin\Debug\PrintLongSiquence.pdb
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Week2Homework\PrintLongSiquence\obj\Debug\PrintLongSiquence.exe
-C:\Users\alex\Documents\Visual Studio 2015\Projects\Week2Homework\PrintLongSiquence\obj\Debug\PrintLongSiquence.pdb
