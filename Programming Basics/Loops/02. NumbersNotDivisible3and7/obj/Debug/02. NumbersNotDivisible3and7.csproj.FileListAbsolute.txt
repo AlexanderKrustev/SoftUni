@@ -1,0 +1,5 @@
+c:\Users\alex\documents\visual studio 2015\Projects\Loops\02. NumbersNotDivisible3and7\bin\Debug\_02.NumbersNotDivisible3and7.exe.config
+c:\Users\alex\documents\visual studio 2015\Projects\Loops\02. NumbersNotDivisible3and7\bin\Debug\_02.NumbersNotDivisible3and7.exe
+c:\Users\alex\documents\visual studio 2015\Projects\Loops\02. NumbersNotDivisible3and7\bin\Debug\_02.NumbersNotDivisible3and7.pdb
+c:\Users\alex\documents\visual studio 2015\Projects\Loops\02. NumbersNotDivisible3and7\obj\Debug\_02.NumbersNotDivisible3and7.exe
+c:\Users\alex\documents\visual studio 2015\Projects\Loops\02. NumbersNotDivisible3and7\obj\Debug\_02.NumbersNotDivisible3and7.pdb
