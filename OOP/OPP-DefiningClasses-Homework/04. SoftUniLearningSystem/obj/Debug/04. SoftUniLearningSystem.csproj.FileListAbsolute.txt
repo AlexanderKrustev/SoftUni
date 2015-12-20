@@ -1,0 +1,6 @@
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OPP-DefiningClasses-Homework\04. SoftUniLearningSystem\bin\Debug\_04.SoftUniLearningSystem.exe.config
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OPP-DefiningClasses-Homework\04. SoftUniLearningSystem\obj\Debug\04. SoftUniLearningSystem.csprojResolveAssemblyReference.cache
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OPP-DefiningClasses-Homework\04. SoftUniLearningSystem\bin\Debug\_04.SoftUniLearningSystem.exe
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OPP-DefiningClasses-Homework\04. SoftUniLearningSystem\bin\Debug\_04.SoftUniLearningSystem.pdb
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OPP-DefiningClasses-Homework\04. SoftUniLearningSystem\obj\Debug\_04.SoftUniLearningSystem.exe
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OPP-DefiningClasses-Homework\04. SoftUniLearningSystem\obj\Debug\_04.SoftUniLearningSystem.pdb

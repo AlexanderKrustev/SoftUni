@@ -1,0 +1,6 @@
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OOPEP\CompanyTest\bin\Debug\CompanyTest.exe.config
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OOPEP\CompanyTest\bin\Debug\CompanyTest.exe
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OOPEP\CompanyTest\bin\Debug\CompanyTest.pdb
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OOPEP\CompanyTest\obj\Debug\CompanyTest.csprojResolveAssemblyReference.cache
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OOPEP\CompanyTest\obj\Debug\CompanyTest.exe
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OOPEP\CompanyTest\obj\Debug\CompanyTest.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. GalacticGPS", "01. GalacticGPS\01. GalacticGPS.csproj", "{4B2E17BC-02C5-4CD9-BD7F-DE0ADB36EB95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. FractionCalculator", "02. FractionCalculator\02. FractionCalculator.csproj", "{F6C72863-2B7F-4423-8A34-59B6988ADA8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Generic List", "03. Generic List\03. Generic List.csproj", "{9DF420BC-8589-4AAE-95BE-1B9B0A35E156}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B2E17BC-02C5-4CD9-BD7F-DE0ADB36EB95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B2E17BC-02C5-4CD9-BD7F-DE0ADB36EB95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B2E17BC-02C5-4CD9-BD7F-DE0ADB36EB95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B2E17BC-02C5-4CD9-BD7F-DE0ADB36EB95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6C72863-2B7F-4423-8A34-59B6988ADA8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C72863-2B7F-4423-8A34-59B6988ADA8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C72863-2B7F-4423-8A34-59B6988ADA8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C72863-2B7F-4423-8A34-59B6988ADA8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DF420BC-8589-4AAE-95BE-1B9B0A35E156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DF420BC-8589-4AAE-95BE-1B9B0A35E156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DF420BC-8589-4AAE-95BE-1B9B0A35E156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DF420BC-8589-4AAE-95BE-1B9B0A35E156}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

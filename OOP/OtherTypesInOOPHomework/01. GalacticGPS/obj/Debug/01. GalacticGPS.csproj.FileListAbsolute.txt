@@ -1,0 +1,6 @@
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OtherTypesInOOPHomework\01. GalacticGPS\bin\Debug\_01.GalacticGPS.exe.config
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OtherTypesInOOPHomework\01. GalacticGPS\bin\Debug\_01.GalacticGPS.exe
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OtherTypesInOOPHomework\01. GalacticGPS\bin\Debug\_01.GalacticGPS.pdb
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OtherTypesInOOPHomework\01. GalacticGPS\obj\Debug\01. GalacticGPS.csprojResolveAssemblyReference.cache
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OtherTypesInOOPHomework\01. GalacticGPS\obj\Debug\_01.GalacticGPS.exe
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OtherTypesInOOPHomework\01. GalacticGPS\obj\Debug\_01.GalacticGPS.pdb

@@ -1,0 +1,6 @@
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OtherTypesInOOPHomework\02. FractionCalculator\bin\Debug\_02.FractionCalculator.exe.config
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OtherTypesInOOPHomework\02. FractionCalculator\bin\Debug\_02.FractionCalculator.exe
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OtherTypesInOOPHomework\02. FractionCalculator\bin\Debug\_02.FractionCalculator.pdb
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OtherTypesInOOPHomework\02. FractionCalculator\obj\Debug\02. FractionCalculator.csprojResolveAssemblyReference.cache
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OtherTypesInOOPHomework\02. FractionCalculator\obj\Debug\_02.FractionCalculator.exe
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OtherTypesInOOPHomework\02. FractionCalculator\obj\Debug\_02.FractionCalculator.pdb

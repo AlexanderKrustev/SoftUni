@@ -1,0 +1,6 @@
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OtherTypesInOOPHomework\03. Generic List\bin\Debug\_03.Generic_List.exe.config
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OtherTypesInOOPHomework\03. Generic List\obj\Debug\03. Generic List.csprojResolveAssemblyReference.cache
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OtherTypesInOOPHomework\03. Generic List\bin\Debug\_03.Generic_List.exe
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OtherTypesInOOPHomework\03. Generic List\bin\Debug\_03.Generic_List.pdb
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OtherTypesInOOPHomework\03. Generic List\obj\Debug\_03.Generic_List.exe
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OtherTypesInOOPHomework\03. Generic List\obj\Debug\_03.Generic_List.pdb

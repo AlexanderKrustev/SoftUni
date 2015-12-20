@@ -1,0 +1,6 @@
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OPP-DefiningClasses-Homework\02.LaptopShop\bin\Debug\02.LaptopShop.exe.config
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OPP-DefiningClasses-Homework\02.LaptopShop\bin\Debug\02.LaptopShop.exe
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OPP-DefiningClasses-Homework\02.LaptopShop\bin\Debug\02.LaptopShop.pdb
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OPP-DefiningClasses-Homework\02.LaptopShop\obj\Debug\02.LaptopShop.exe
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OPP-DefiningClasses-Homework\02.LaptopShop\obj\Debug\02.LaptopShop.pdb
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OPP-DefiningClasses-Homework\02.LaptopShop\obj\Debug\02.LaptopShop.csprojResolveAssemblyReference.cache
