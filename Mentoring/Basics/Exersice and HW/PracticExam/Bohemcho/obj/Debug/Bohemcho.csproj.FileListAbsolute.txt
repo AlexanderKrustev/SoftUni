@@ -1,0 +1,6 @@
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\PraticExam\Bohemcho\bin\Debug\Bohemcho.exe.config
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\PraticExam\Bohemcho\bin\Debug\Bohemcho.exe
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\PraticExam\Bohemcho\bin\Debug\Bohemcho.pdb
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\PraticExam\Bohemcho\obj\Debug\Bohemcho.csprojResolveAssemblyReference.cache
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\PraticExam\Bohemcho\obj\Debug\Bohemcho.exe
+C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\PraticExam\Bohemcho\obj\Debug\Bohemcho.pdb
