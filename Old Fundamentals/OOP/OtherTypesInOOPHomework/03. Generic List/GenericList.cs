@@ -41,7 +41,7 @@ namespace _03.Generic_List
         {
             if (this.Count== actuallCapacity/2)
             {
-                this.Array=Resize();
+                this.Array = Resize();
             }
             this.Array[this.Count] = member;
             this.Count++;
@@ -110,7 +110,7 @@ namespace _03.Generic_List
             {
                 throw new ArgumentOutOfRangeException("Argument out of range");
             }
-            this.Array=Resize();
+            this.Array = Resize();
             T[] arrayTemp=new T[this.ActuallCapacity];
             for (int i = 0; i < givenPosition; i++)
             {
@@ -209,7 +209,7 @@ namespace _03.Generic_List
         }
         public IEnumerator<T> GetEnumerator()
         {
-            return this.array.Take(this.Count).GetEnumerator();
+            return this.Array.Take(this.Count).GetEnumerator();
         }
 
         

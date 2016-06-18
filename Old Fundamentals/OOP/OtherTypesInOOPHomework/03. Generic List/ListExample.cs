@@ -3,12 +3,16 @@ using System.Runtime.InteropServices;
 
 namespace _03.Generic_List
 {
+    using System.Collections.Generic;
+
     class ListExample
     {
         static void Main()
         {
 
             GenericList<int> list1 = new GenericList<int>();
+            List<int> alabala=new List<int>();
+            alabala.Add(1);
             list1.Add(4);
             list1.Add(5);
             list1.Add(6);

@@ -4,3 +4,9 @@ C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OtherTypes
 C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OtherTypesInOOPHomework\03. Generic List\bin\Debug\_03.Generic_List.pdb
 C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OtherTypesInOOPHomework\03. Generic List\obj\Debug\_03.Generic_List.exe
 C:\Users\alex\OneDrive\Документи\Visual Studio 2015\Projects\OtherTypesInOOPHomework\03. Generic List\obj\Debug\_03.Generic_List.pdb
+C:\Users\krustev\Google Drive\Documents\SoftUni New\GitHubFolder\SoftUni\Old Fundamentals\OOP\OtherTypesInOOPHomework\03. Generic List\bin\Debug\_03.Generic_List.exe.config
+C:\Users\krustev\Google Drive\Documents\SoftUni New\GitHubFolder\SoftUni\Old Fundamentals\OOP\OtherTypesInOOPHomework\03. Generic List\obj\Debug\_03.Generic_List.exe
+C:\Users\krustev\Google Drive\Documents\SoftUni New\GitHubFolder\SoftUni\Old Fundamentals\OOP\OtherTypesInOOPHomework\03. Generic List\obj\Debug\_03.Generic_List.pdb
+C:\Users\krustev\Google Drive\Documents\SoftUni New\GitHubFolder\SoftUni\Old Fundamentals\OOP\OtherTypesInOOPHomework\03. Generic List\bin\Debug\_03.Generic_List.exe
+C:\Users\krustev\Google Drive\Documents\SoftUni New\GitHubFolder\SoftUni\Old Fundamentals\OOP\OtherTypesInOOPHomework\03. Generic List\bin\Debug\_03.Generic_List.pdb
+C:\Users\krustev\Google Drive\Documents\SoftUni New\GitHubFolder\SoftUni\Old Fundamentals\OOP\OtherTypesInOOPHomework\03. Generic List\obj\Debug\03. Generic List.csprojResolveAssemblyReference.cache
