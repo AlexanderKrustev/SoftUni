@@ -1,0 +1,6 @@
+C:\Users\krustev\Google Drive\Documents\SoftUni\C# Fundamentals\OOP\StoryMode\Executor\bin\Debug\Executor.exe.config
+C:\Users\krustev\Google Drive\Documents\SoftUni\C# Fundamentals\OOP\StoryMode\Executor\obj\Debug\BashSoft.csprojResolveAssemblyReference.cache
+C:\Users\krustev\Google Drive\Documents\SoftUni\C# Fundamentals\OOP\StoryMode\Executor\bin\Debug\Executor.exe
+C:\Users\krustev\Google Drive\Documents\SoftUni\C# Fundamentals\OOP\StoryMode\Executor\bin\Debug\Executor.pdb
+C:\Users\krustev\Google Drive\Documents\SoftUni\C# Fundamentals\OOP\StoryMode\Executor\obj\Debug\Executor.exe
+C:\Users\krustev\Google Drive\Documents\SoftUni\C# Fundamentals\OOP\StoryMode\Executor\obj\Debug\Executor.pdb
