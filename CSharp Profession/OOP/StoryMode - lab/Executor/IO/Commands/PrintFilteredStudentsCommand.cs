@@ -12,7 +12,7 @@
 
         public override void Execute()
         {
-            if (this.Data.Length != 2)
+            if (this.Data.Length != 5)
             {
                 throw new InvalidCommandException(this.Input);
             }
