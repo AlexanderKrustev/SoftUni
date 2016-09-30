@@ -1,0 +1,1 @@
+SELECT e.FirstName,e.MiddleName, e.LastName, e.Salary FROM Employees AS e
