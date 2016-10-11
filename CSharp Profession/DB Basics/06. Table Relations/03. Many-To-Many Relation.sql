@@ -1,0 +1,34 @@
+CREATE TABLE Students(
+StudentID INT NOT NULL,
+Name VARCHAR(50)
+)
+CREATE TABLE Exams(
+ExamID INT NOT NULL,
+Name VARCHAR(50)
+)
+
+CREATE TABLE StudentsExam(
+ExamID INT NOT NULL,
+StudentID INT NOT NULL
+)
+
+
+ALTER TABLE Students
+ADD PRIMARY KEY (StudentID)
+
+ALTER TABLE Exams
+ADD PRIMARY KEY (ExamID)
+
+ALTER TABLE StudentsExam
+ADD PRIMARY KEY (ExamID, StudentID)
+
+ALTER TABLE StudentsExam
+ADD CONSTRAINT fk_StudentsExam_Exams FOREIGN KEY (ExamID)
+REFERENCES Exams(ExamID)
+
+ALTER TABLE StudentsExam
+ADD CONSTRAINT fk_StudentsExam_Students  FOREIGN KEY (StudentID)
+REFERENCES Students(StudentID)
+
+
+
